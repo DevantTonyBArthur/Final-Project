@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Saving The Green</title>
+</head>
+
+ <style>
+table, th, td {
+  border:1px solid black;
+</style>
+<body>
+<table style="width:100%">
+
+  <tr>
+    <th style="font-size:30px;">Home</th>
+    <th style="font-size:30px;">Saving The Green</th>
+    <th style="font-size:30px;">Discussion</th>
+    <th style="font-size:30px;">Contact us</th>
+   
+  </tr>
+  <tr>
+</table>
+<body>
+<h1>About</h1>
+<p>Flower, the characteristic reproductive structure of angiosperms. As popularly used, the term “flower” especially applies when part or all of the reproductive structure is distinctive in colour and form. petunia Pink variegated flowers of a common garden petunia (Petunia ×atkinsiana).lilac Common lilac (Syringa vulgaris). In their range of colour, size, form, and anatomical arrangement, flowers present a seemingly endless variety of combinations. They range in size from minute blossoms to giant blooms. In some plants, such as poppy, magnolia, tulip, and petunia, each flower is relatively large and showy and is produced singly, while in other plants, such as aster, snapdragon, and lilac, the individual flowers may be very small and are borne in a distinctive cluster known as an inflorescence. Regardless of their variety, all flowers have a uniform function, the reproduction of the species through the production of seed.</p>
+
+<h3>>Types of Plants</h3>
+<h3>>How to take care of them</h3>
+<html>
+<body>
+
+</div>
+<div class="image-item">
+<img src="Plower.jpg" alt="Blue Flower" width="500" height="333">
+
+
+
+<img src="Plowers.gif" alt="Computer man" style="width:500px;height:333px;">
+
+</body>
+</html>
