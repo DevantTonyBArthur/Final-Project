@@ -1,0 +1,38 @@
+header{
+    background-color:rgb(100, 233, 100);
+    color: black;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 8px brown(o, 0, 0, 0.2)
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(74, 218, 69);
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3 ease
+}
+
+nav ul {
+    list-style: none
+    display: flex;
+}
+nav ul li{
+    margin-right: 20px;
+}
+
+footer{
+    background-color:rgb(100, 233, 100);
+    color: black;
+    text-align:center ;
+    padding: 20px 0 ;
+    position: fixed;
+    width: 100% ;
+    bottom: 0;
+    box-shadow: 0 -4px 8px black(0, 0, 0, 0.1);
+}
