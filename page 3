@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <html>
+        <head>
+            <link rel="stylesheet" href="css3.css">
+        </body>
+            <header>
+        <h1> How to take care of them</h1>
+        </header>
+        <p> We see a huge variety of plants all around us. Among which few are terrestrial and aquatic plants. Despite this fact, they all have the same parts and the same functions; they appear unique with different types of roots, stems, leaves, flowers, fruits, seeds etc. Therefore, the classification of plants is mainly based on several factors, and they can be further classified based on their height, tenderness of stem, branches and their life cycle.</p>
+        <h3>Herbs</h3>
+        <p>Herbs are short-sized plants with soft, green, delicate stems without woody tissues. They complete their life cycle within one or two seasons. Generally, they have few branches or are branchless. These can be easily uprooted from the soil. Herbs contain enough nutritional benefits, including vitamins and minerals, to make them a part of a healthy balanced diet. Tomato, wheat, paddy, grass and bananas are a few examples of herbs.</p>
+<h3>Shrubs</h3>
+<p>Shrubs are medium-sized, woody plants taller than herbs and shorter than a tree. Their height usually ranges from 6m to 10m tall. Their features include bushy, hard, and woody stems with many branches. Although stems are hard, they are flexible but not fragile. The lifespan of these plants usually depends on the species. Rose, jasmine, lemon, tulsi, and henna are some of the common shrubs around us.</p>
+<h3>Trees</h3>
+<p>Trees are big and tall plants. They have very thick, woody and hard stems called the trunk. This single main stem or the trunk gives rise to many branches that bear leaves, flowers and fruits. Some trees are branchless like coconut trees; i.e., they have only one main stem which bears leaves, flowers, and fruits all by itself. The lifespan of a tree is very long. i.e., for several years. Banyan, mango, neem, cashew, teak and oak are some examples of trees.</p>
+<h3>Climbers</h3>
+<p>Climbers are much more advanced than creepers. Climbers have a very thin, long and weak stem which cannot stand upright, but they can use external support to grow vertically and carry their weight. These types of plants use special structures called tendrils to climb. A few climbers’ plant names include pea plant, grapevine, sweet gourd, money plant, jasmine, runner beans, green peas, etc.</p>
+<h3>Creepers</h3>
+<p>Creepers, as the name suggests, are plants that creep on the ground. They have very fragile, long, thin stems that can neither stand erect nor support all their weight. Examples include watermelon, strawberry, pumpkin and sweet potatoes.</p>      
+        </div>
+        <div class="image-item">
+        <img src="Take care.jpg" alt="Steps" width="600" height="500">
+        </div>
+        
+        </body>
+        </html>
+        <section class="page-link-section">
+            <div class="link-item">
+                <h2><a href="Page 1.html">Back to page 1</a></h2>
+            </div>
+        </section>
+        <section class="page-link-section">
+            <div class="link-item">
+                <h2><a href="Page 2.html">Explore Page 2: Rare Plants and More!</a></h2>
+            </div>
+        </section>
+        <footer>
+            <p>&copy; 2024 Devplays </p>
+        </footer>
+</body>
+</html>
