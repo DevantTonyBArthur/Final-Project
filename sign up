@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Join Our Plant-Saving Organization</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="form-container">
+    <h2>Join Our Plant-Saving Organization 🌿</h2>
+    <form id="joinForm">
+      <label for="name">Full Name</label>
+      <input type="text" id="name" name="name" required />
+
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="email" required />
+
+      <label for="phone">Phone Number</label>
+      <input type="tel" id="phone" name="phone" />
+
+      <label for="reason">Why do you want to join?</label>
+      <textarea id="reason" name="reason" rows="4" required></textarea>
+
+      <label for="volunteer">Are you interested in volunteering?</label>
+      <select id="volunteer" name="volunteer">
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+        <option value="maybe">Maybe</option>
+      </select>
+
+      <button type="submit">Join Now</button>
+    </form>
+
+    <div class="result" id="resultSection">
+      <h3>Thank you for joining! 🌱</h3>
+      <p><strong>Name:</strong> <span id="resName"></span></p>
+      <p><strong>Email:</strong> <span id="resEmail"></span></p>
+      <p><strong>Phone:</strong> <span id="resPhone"></span></p>
+      <p><strong>Reason:</strong> <span id="resReason"></span></p>
+      <p><strong>Volunteering:</strong> <span id="resVolunteer"></span></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
