@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Saving The Green</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="ssstyle.css">
 </head>
 <body>
     <header>
@@ -17,8 +17,8 @@
                     <li><a href="Nothing :<">Saving The Green</a></li>
                     <li><a href="Nothing :<">Discussion</a></li>
                     <li><a href="Literally">Contact Us :></a></li>
-                    <li><a href="Untitled-2.html">Quick Quiz :></a></li>
-                    <li><a href="Untitled-3.html">JOIN US :></a></li>
+                    <li><a href="Quiz.html">Quick Quiz :></a></li>
+                    <li><a href="Sign Up.html">JOIN US :></a></li>
                 </ul>
             </nav>
         </div>
