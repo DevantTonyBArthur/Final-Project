@@ -1,0 +1,28 @@
+document.addEventListener("DOMContentLoaded", () => {
+  const form = document.getElementById("joinForm");
+  const resultSection = document.getElementById("resultSection");
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+
+    // Get form values
+    const name = document.getElementById("name").value;
+    const email = document.getElementById("email").value;
+    const phone = document.getElementById("phone").value;
+    const reason = document.getElementById("reason").value;
+    const volunteer = document.getElementById("volunteer").value;
+
+    // Set result display
+    document.getElementById("resName").textContent = name;
+    document.getElementById("resEmail").textContent = email;
+    document.getElementById("resPhone").textContent = phone;
+    document.getElementById("resReason").textContent = reason;
+    document.getElementById("resVolunteer").textContent = volunteer;
+
+    // Show result
+    resultSection.style.display = "block";
+
+    // Clear form
+    form.reset();
+  });
+});
